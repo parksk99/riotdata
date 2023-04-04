@@ -5,7 +5,7 @@ from riot_get import personal_key_get
 URL = 'https://kr.api.riotgames.com/lol/league-exp/v4/entries/RANKED_SOLO_5x5/{}/{}?page=1'
 
 # 알아서 각자 티어 주석처리 해봐
-bottom_tiers = ['DIAMOND','PLATINUM','GOLD','SILVER','BRONZE','IRON']
+bottom_tiers = ['GOLD','SILVER']
 divisions = ['I','II','III','IV']
 
 for bottom_tier in bottom_tiers:
