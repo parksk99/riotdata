@@ -9,3 +9,12 @@ matchids에 json파일이 주르륵 생기면 성공
 
 # 2. 예상 소요 시간
 1900초 정도 걸릴듯
+
+# get_match.py 실행 방법
+get_match.py의 38줄 함수 인자를   
+ryu: 0   
+jun: 1   
+dong: 2   
+로 바까서 실행
+
+이론상 10시간   
